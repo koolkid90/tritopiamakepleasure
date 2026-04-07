@@ -1,6 +1,8 @@
 # tritopiamakepleasure
 Ideal RNG — live hash of the nanosecond. No state. No hack. No repetition.
 
+P.S. realization - it's just joke-prototype for visualisation of conception 
+
 What is this
 
 This is not a random number generator.  
